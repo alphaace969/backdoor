@@ -1,7 +1,7 @@
-# Script MATKIMIA V7-Websocket
- Welcome MAT KIMIA 442😊
+# Script ALPHA ACE V7-Websocket
+ Welcome ALPHA ACE 442😊
 
- <h2 align="center">AutoScript VPN By MATKIMIA 442 <img src="https://img.shields.io/badge/Version-7.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By ALPHAACE 442 <img src="https://img.shields.io/badge/Version-7.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -30,7 +30,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 ## INSTALLATION SCRIPT
 
   ```html
-  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/huaweipadu/backdoor/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/alphaace/backdoor/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 
   ```
  
@@ -94,7 +94,7 @@ systemctl restart wg-quick@wg0
 
 ## Credit :
 
-*   MATKIMIA
+*   ALPHAACE
 
 *   Project D
 
